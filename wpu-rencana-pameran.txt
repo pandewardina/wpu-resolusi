@@ -6,3 +6,6 @@ RENCANA WPU PAMERAN
 - Lebih Futuristic
   * Menggunakan Teknologi Canggih
   * Membuat Semua Sendiri
+   ^ Membuat PCB 
+- Menggunakan Python
+- Menggunakan Pyenv
