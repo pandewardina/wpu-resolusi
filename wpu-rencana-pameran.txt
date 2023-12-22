@@ -6,3 +6,4 @@ RENCANA WPU PAMERAN
 - Lebih Futuristic
   * Menggunakan Teknologi Canggih
   * Membuat Semua Sendiri
+   ^ PCB Membuat Desain Saja
